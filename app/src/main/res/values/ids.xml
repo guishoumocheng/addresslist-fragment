@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="chat_item_vedio_tag"></item>
+
+    <item type="id" name="chat_address_user_checkbox_tag"></item>
+
+    <item type="id" name="btn_click_timestamp"></item>
+
+</resources>

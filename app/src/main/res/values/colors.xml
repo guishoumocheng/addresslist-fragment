@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="group_path">#9B9B9B</color>
+    <color name="group_path_selected">#a61381c1</color>
+    <color name="chat_address_person">#2e0eb2bb</color>
+    <color name="chat_address_group">#2e1a80bb</color>
+</resources>
